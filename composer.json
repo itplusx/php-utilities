@@ -5,7 +5,7 @@
     "license": ["MIT"],
     "autoload": {
         "psr-4": {
-            "ITplusX\\Utilities": "ITplusX/Utility"
+            "ITplusX\\Utilities\\": "ITplusX/Utility"
         }
     }
 }
