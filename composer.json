@@ -1,0 +1,11 @@
+{
+    "name": "itplusx/php-utilities",
+    "description": "Collection of useful PHP utilities.",
+    "type": "library",
+    "license": ["MIT"],
+    "autoload": {
+        "psr-4": {
+            "ITplusX\\Utilities": "ITplusX/Utility"
+        }
+    }
+}
