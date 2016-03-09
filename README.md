@@ -7,7 +7,7 @@ Collection of useful PHP utility classes.
 
 Install this package using composer.
 
-    composer require itplusx/utilities
+    composer require itplusx/php-utilities
 
 
 ## Usage
